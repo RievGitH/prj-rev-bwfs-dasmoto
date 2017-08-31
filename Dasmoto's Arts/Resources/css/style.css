@@ -1,0 +1,39 @@
+/* Stylesheet for Dasmoto's Arts & Crafts */
+
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: khaki;
+  background-image: url("file:///C:/Users/End%20User/Documents/Code%20Academy/WebPro/PROJECTS/Dasmoto's%20Arts/Resources/pattern.jpeg");
+  }
+
+  /* All prices are in bold, blue*/
+  #prices
+  {
+    font-weight: bold;
+    color: blue;
+  }
+
+.brushes
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+.frames
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+.paints
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+  }
